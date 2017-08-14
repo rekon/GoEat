@@ -3,9 +3,14 @@
     <string name="gender_label">Gender</string>
     <string name="gender_male">Male</string>
     <string name="gender_female">Female</string>
-    <string name="height_label">Height</string>
-    <string name="weight_label">Weight</string>
+    <string name="height_label">"Height (cms)"</string>
+    <string name="weight_label">"Weight (kgs)"</string>
     <string name="age_label">Age</string>
+    <string name="calorie_calculate_button">"Calculate"</string>
     <string name="calorie_required_label">Calories required daily</string>
-    <string name="calorie_calculate_button">Calculate</string>
+    <string name="calorie_no_workout">"Little or no exercise"</string>
+    <string name="calorie_light_workout">"Light exercise (1–3 days per week)"</string>
+    <string name="calorie_moderate_workout">"Moderate exercise (3–5 days per week)"</string>
+    <string name="calorie_heavy_workout">"Heavy exercise (6–7 days per week)"</string>
+    <string name="calorie_very_heavy_workout">"Very heavy exercise (twice per day)"</string>
 </resources>
