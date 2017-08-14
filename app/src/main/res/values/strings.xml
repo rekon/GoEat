@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GoEat</string>
+    <string name="gender_label">Gender</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="height_label">Height</string>
+    <string name="weight_label">Weight</string>
+    <string name="age_label">Age</string>
+    <string name="calorie_required_label">Calories required daily</string>
+    <string name="calorie_calculate_button">Calculate</string>
+</resources>
