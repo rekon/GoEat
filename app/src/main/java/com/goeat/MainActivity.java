@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
 
         final RadioButton gender_male=(RadioButton)findViewById(R.id.gender_male),
                 gender_female=(RadioButton)findViewById(R.id.gender_female);
+        gender_male.setChecked(true);
 
         calculateButton.setOnClickListener(new View.OnClickListener() {
             @Override
